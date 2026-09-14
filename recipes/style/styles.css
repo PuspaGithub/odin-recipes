@@ -2,6 +2,9 @@ body {
     background-color: aquamarine;
     font-family: 'Courier New', Courier, monospace;
 }
+ol {
+    list-style-type: none;
+}
 
 .topic {
     text-align: center;
@@ -28,4 +31,19 @@ body {
     text-decoration: underline;
     margin: 20px;
     padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+
+.lasagna {
+    background-color: aliceblue;
+}
+
+.momo {
+    background-color: blanchedalmond;
+}
+
+.burger {
+    background-color: aqua;
 }
